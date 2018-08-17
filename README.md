@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/chgrivas/kata-archetype?branch=master)](https://travis-ci.org/chgrivas/kata-archetype)
+
 # kata-archetype
 
 > A maven archetype for efficient kata sessions.
