@@ -4,9 +4,9 @@
 
 ## Get started
 
-Generate a ready-to-go project including Spock framework for testing.
+Generate a ready-to-go project for your next kata including Spock framework for testing.
 
-### Configure archetype
+### Configure archetype locally
 
 Add kata-archetype to local archetype-catalog:
 
