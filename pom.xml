@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.chgrivas.learn</groupId>
   <artifactId>kata-archetype</artifactId>
-  <version>0.9</version>
+  <version>1.0</version>
   <name>Archetype - kata-archetype</name>
   <url>http://maven.apache.org</url>
 </project>
