@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/chgrivas/kata-archetype?branch=master)](https://travis-ci.org/chgrivas/kata-archetype)
+[![Build Status](https://travis-ci.org/chgrivas/kata-archetype.svg?branch=master)](https://travis-ci.org/chgrivas/kata-archetype)
 
 # kata-archetype
 
