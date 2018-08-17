@@ -21,7 +21,7 @@ mvn install archetype:update-local-catalog
 Generate a new project:
 
 ```
-mvn archetype:generate -DarchetypeGroupId=com.chgrivas.learn -DarchetypeArtifactId=kata-archetype -DarchetypeVersion=0.9
+mvn archetype:generate -DarchetypeGroupId=com.chgrivas.learn -DarchetypeArtifactId=kata-archetype -DarchetypeVersion=1.0
 ```
 
 
