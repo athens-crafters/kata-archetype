@@ -17,6 +17,7 @@
       <directory></directory>
       <includes>
         <include>README.md</include>
+        <include>.editorconfig</include>
       </includes>
     </fileSet>
   </fileSets>
