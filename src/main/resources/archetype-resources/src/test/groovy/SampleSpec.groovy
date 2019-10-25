@@ -4,10 +4,16 @@ import spock.lang.Specification
 
 class SampleSpec extends Specification {
 
-	def "sample test"() {
-		when:
-			def a = 1
-		then:
-			a == 1
-	}
+  Sample sample
+
+  def setup() {
+    sample = new Sample()
+  }
+
+  def "sample test"() {
+    when:
+        def result = sample.constructSampleString()
+    then:
+        result == "some string"
+  }
 }
